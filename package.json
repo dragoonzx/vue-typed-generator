@@ -32,8 +32,9 @@
     "yeoman-generator": "^4.12.0"
   },
   "scripts": {
-    "add-component": "yo vue-typed-generator"
+    "add-component": "yo vue-typed-generator",
+    "test": "echo \"No test specified\""
   },
-  "repository": "dragoonzx/generator-vue-typed-generator",
+  "repository": "dragoonzx/vue-typed-generator",
   "license": "Apache-2.0"
 }
