@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "lib": ["es6"],
+    "module": "commonjs",
+    "outDir": "./generators/app",
+    "allowJs": true,
+    "target": "es6",
+    "moduleResolution": "node"
+  },
+  "include": ["./main/**/*"],
+  "exclude": ["./main/templates/"]
+}

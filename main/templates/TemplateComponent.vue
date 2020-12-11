@@ -11,7 +11,7 @@ import Vue from 'vue'
 /**
  * Just an empty class.
  */
-export default class TestComponent extends Vue {}
+export default class <%= name %> extends Vue {}
 </script>
 
 <style lang="scss" module>

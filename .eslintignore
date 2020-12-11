@@ -1,2 +1,4 @@
 coverage
 **/templates
+generators/**/*
+__tests__
