@@ -1,6 +1,6 @@
 {
   "name": "vue-typed-generator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Generator for automating creation of typed vue components/pages and tests for them",
   "homepage": "https://github.com/dragoonzx/vue-typed-generator",
   "author": {
